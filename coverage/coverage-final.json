@@ -1,0 +1,2 @@
+{"/home/cihate/jest-app/sum.js": {"path":"/home/cihate/jest-app/sum.js","statementMap":{"0":{"start":{"line":2,"column":4},"end":{"line":2,"column":17}},"1":{"start":{"line":4,"column":2},"end":{"line":4,"column":23}}},"fnMap":{"0":{"name":"sum","decl":{"start":{"line":1,"column":9},"end":{"line":1,"column":12}},"loc":{"start":{"line":1,"column":19},"end":{"line":3,"column":3}},"line":1}},"branchMap":{},"s":{"0":1,"1":1},"f":{"0":1},"b":{},"_coverageSchema":"1a1c01bbd47fc00a2c39e90264f33305004495a9","hash":"d7117be4f2025340f095d8a5eeef3c9facc5a6c4"}
+}

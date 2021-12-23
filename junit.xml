@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="1" failures="1" errors="0" time="0.433">
-  <testsuite name="undefined" errors="0" failures="1" skipped="0" timestamp="2021-12-23T09:07:10" time="0.332" tests="1">
-    <testcase classname=" adds 1 + 2 to equal 3" name=" adds 1 + 2 to equal 3" time="0.004">
-      <failure>Error: expect(received).toBe(expected) // Object.is equality
-
-Expected: 4
-Received: 3
-    at Object.&lt;anonymous&gt; (/home/cihate/jest-app/sum.test.js:4:21)
-    at Promise.then.completed (/home/cihate/jest-app/node_modules/jest-circus/build/utils.js:391:28)
-    at new Promise (&lt;anonymous&gt;)
-    at callAsyncCircusFn (/home/cihate/jest-app/node_modules/jest-circus/build/utils.js:316:10)
-    at _callCircusTest (/home/cihate/jest-app/node_modules/jest-circus/build/run.js:218:40)
-    at processTicksAndRejections (internal/process/task_queues.js:95:5)
-    at _runTest (/home/cihate/jest-app/node_modules/jest-circus/build/run.js:155:3)
-    at _runTestsForDescribeBlock (/home/cihate/jest-app/node_modules/jest-circus/build/run.js:66:9)
-    at run (/home/cihate/jest-app/node_modules/jest-circus/build/run.js:25:3)
-    at runAndTransformResultsToJestFormat (/home/cihate/jest-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)</failure>
+<testsuites name="jest tests" tests="1" failures="0" errors="0" time="0.367">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2021-12-23T09:39:19" time="0.234" tests="1">
+    <testcase classname=" adds 1 + 2 to equal 3" name=" adds 1 + 2 to equal 3" time="0.001">
     </testcase>
   </testsuite>
 </testsuites>
