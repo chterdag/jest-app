@@ -1,10 +1,18 @@
 module.exports = async () => {
     return {
       verbose: true,
+      "collectCoverage":true,
+      "coverageReporters": [
+        "text",
+        "lcov"
+      ],
+      "reporters": [
+        "default"
+      ],
       "collectCoverageFrom": [
-        "./*.{js,jsx}",
+        "./src/*.{js,jsx}",
         "!**/node_modules/**"
       ],
-      "testResultsProcessor": 'jest-sonar-reporter'
+      "testResultsProcessor": "jest-sonar-reporter"
     };
   };
