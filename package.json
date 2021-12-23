@@ -1,5 +1,10 @@
 {
   "name": "jest-app",
+  "jestSonar": {
+    "reportPath": "reports",
+    "reportFile": "test-reporter.xml",
+    "indent": 4
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

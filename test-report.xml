@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testExecutions version="1">
-  <file path="/home/cihate/jest-app/sum.test.js">
-    <testCase name="adds 1 + 2 to equal 3" duration="5"/>
-  </file>
-</testExecutions>
